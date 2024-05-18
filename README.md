@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the use of the Abstract Factory design pattern in Java. The Abstract Factory pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes. This project simulates a scenario where different types of obstacles are created for different levels of a game.
+This project demonstrates the use of the Creational   design pattern in Java. 
 
 ## Design Patterns Covered
 
